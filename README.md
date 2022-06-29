@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kitkat1303
 - 👀 I’m interested in software developement (particularly back-end)
-- 📫 How to reach me via email :)
+- 📫 How to reach me via email: katarina.mcgaughy@gmail.com
 
 <!---
 kitkat1303/kitkat1303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
