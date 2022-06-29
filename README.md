@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kitkat1303
-- 👀 I’m interested in software developement
-- 🌱 I’m currently learning django and C++
-- 💞️ I’m looking to collaborate on web developement
+- 👀 I’m interested in software developement (particularly back-end)
 - 📫 How to reach me via email :)
 
 <!---
